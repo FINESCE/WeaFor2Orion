@@ -3,5 +3,7 @@ A Java TIMER client which retrieves (every five minutes) weather conditions and 
 
 In order to compile this project under Maven, the following projects are required:
 https://github.com/FINESCE/ngsi
+
 https://github.com/FINESCE/emarketplace-parent
+
 https://github.com/FINESCE/emarketplace-domain
